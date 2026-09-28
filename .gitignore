@@ -1,0 +1,36 @@
+Ambientes Virtuais (Virtual Environments)
+
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+Cache do Python e Arquivos Compilados
+
+pycache/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+Cache de bibliotecas (Hugging Face / SentenceTransformers)
+
+.cache/
+huggingface/
+
+Arquivos de IDE e Editores de Código
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+Logs e arquivos de diagnóstico
+
+*.log
+.DS_Store
+Thumbs.db

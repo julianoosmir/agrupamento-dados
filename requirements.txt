@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+seaborn
+sentence-transformers
+scikit-learn
+huggingface_hub
