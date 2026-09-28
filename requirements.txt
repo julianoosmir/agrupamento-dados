@@ -5,3 +5,5 @@ seaborn
 sentence-transformers
 scikit-learn
 huggingface_hub
+reportlab
+plotly
